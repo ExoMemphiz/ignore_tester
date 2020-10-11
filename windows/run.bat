@@ -1,1 +1,1 @@
-node myfile.js
+node myfile.js "Windows"
